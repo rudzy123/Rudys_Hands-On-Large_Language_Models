@@ -7,3 +7,5 @@ It is not affiliated with, endorsed by, or authorized by the authors, O'Reilly M
 
 Readers should obtain their original book. 
 Enjoy. 
+
+Recommend using Google Colabs. Utilize the T4 GPUs on there with the latest version of Python.
